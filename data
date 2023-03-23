@@ -1,1 +1,16 @@
-com.HubLawtanApp3.magiskmanageradvisorapp
+{
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"239e99e1ba5dcbcd",
+            "inter":"a4427e718e274e43",
+            "nativ":"2c3358ba72f98083",
+            "reword":"e445e7810c559c1f"}
+            }
